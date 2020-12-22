@@ -16,5 +16,5 @@ Where are the most launch sites?
 How many satellites are launched per year?
 Launches per contractor for the top 10 Contractors worldwide?
 
-This project was completed by Justin Merryman, Tamey Washington, Raven Washington, Imran Zalov.
+This project was completed by Justin Merryman, Tamey Washington, Raven Washington.
 
